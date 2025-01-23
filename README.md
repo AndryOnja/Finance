@@ -12,7 +12,7 @@ git clone https://github.com/AndryOnja/finance.git
 ```
 - Entrer dans le repertoire
 ```
-cd larablog
+cd finance
 ```
 - Copy .env.example file
 ```
